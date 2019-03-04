@@ -3,7 +3,7 @@
 Description: This script is to list following details:
     Instance Display name , public/prive ip and internal name
     LB name, IP, shape 
-Author : vinod.buramdoddi
+Author : Vinod Buramdoddi
 Date: 2-Mar-2019
 Version: 4.0
 '''
